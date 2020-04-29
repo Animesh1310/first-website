@@ -1,0 +1,80 @@
+<h1>YOU CAN RENT A CAR FOR ANY PURPOSE</h1>
+
+<h2>LET’S FIND YOUR PERFECT CAR</h2>
+============
+car types
+
+<h2>Budget Cars</h2>
+<p>We have a wide range of practical, ergonomic cars for rent. These ones will perfectly fit a one-day rent or a family road trip.<p>
+
+<h2>Comfort Class</h2>
+<p>These cars stand out in terms of ride comfort, cabin quietness, and front-seat comfort. However, they do not include small cars.</p>
+
+<h2>Premium Cars</h2>
+<p>Premium cars represent superiority in everything - equipment, performance, construction, design etc. They mostly include high-end cars.</p>
+
+=============
+<p>WE WORK ACROSS INDIA! Choosing our service will enable you to pick the car up in Mumbai and drop it off at, let's say, Surat, Ahmedabad. We offer car rental across Gujarat. We have an extensive network of dealers and servicing centers across the country.</p>
+
+===============
+
+<h2>Premium Service</h2>
+<p>We provide high-quality service for all our clients.</p>
+
+<h2>Variety of Locations</h2>
+<p>You can rent our cars throughout the USA.</p>
+
+<h2>Qualified Team</h2>
+<p>Our fully professional team can handle any car rental queries.</p>
+
+====================
+
+
+-----------------
+
+our team
+
+
+
+<h2>Timothy Weinstein</h2>
+
+<h3>Owner and Founder</h3>
+
+<p>As Timothy grew up in Texas, his love for cars lasts well since his birth... His first car being a 1969 Mustang was his initial motivation to start a business, related to autos.</p>
+
+
+<h2>Dave Greenberg</h2>
+
+<h3>Head of Infrastructure</h3>
+
+<p>As the Head of Infrastructure, Dave's responsible for controlling everything connected to picking up/returning the cars, as well as for storing them in a safe manner.</p>
+
+
+<h2>Wallace Christiansen</h2>
+
+<h3>Stock manager</h3>
+
+<p>As our marketing, sales, and stock manager, Wallace is the person in charge of buying new cars, making cooperation agreements with car brands and maintaining the overall diversity.</p>
+
+
+<h2>Sam Hodgens</h2>
+
+<h3>Head of Customer Support</h3>
+
+<p>As an important member of our team who is related to communicating with each specific client, the work of Sam, the Head of our Customer Support department plays a vital role in our business.</p>
+
+
+=======================================
+
+Mission 
+
+<h2>OUR MISSION</h2>
+<p>RELIABILITY AND TRUST ARE OUR PRIME PRINCIPLES
+Our mission is to provide the best car rentals and services. We combine our own knowledge and experience with a large array of different cars. We aim to deliver a matchless service that meets and exceeds customers’ expectations, and we are not satisfied unless the customer is satisfied. We offer all our clients a free delivery/pick-up service, meaning that we will meet you and bring the car to your home or hotel, or any other scheduled place of your choice.</p>
+
+<h2>HOW IT WORKS</h2>
+<p>A FAST WAY TO RESERVE A CAR ONLINE
+Now you can pick and schedule your rental right here on the website. We will contact you right after we receive your reservation request to square out the details. No online payment is needed when you reserve online, and you have the option to create your online account to speed up your reservation process in the future.</p>
+
+============
+
